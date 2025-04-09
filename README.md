@@ -38,6 +38,7 @@
 6. **Create a New React App Using Vite (with TypeScript + SWC)**  
    In the terminal, run:
    ```
+
    npm create vite@latest
    ```
    - Enter your **ID number** as the project name
